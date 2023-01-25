@@ -1,0 +1,12 @@
+1
+Guadalajara
+Monterrey
+12.4
+9
+Sonora
+Tamaulipas
+2.45
+5
+Ciudad de Mexico
+Chihuahua
+4.56
